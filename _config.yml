@@ -36,6 +36,7 @@ texture:
 # - about.md
 
 # Build settings
+asset_url: /assets
 # theme: texture
 
 plugins:

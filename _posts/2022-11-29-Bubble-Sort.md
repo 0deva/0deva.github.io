@@ -2,7 +2,7 @@
 layout: post
 title: "Bubble Sort"
 date: 2022-11-29 12:55:09 +0900
-categories: jekyll update
+categories: Algorithm sort
 comments: true
 ---
 
