@@ -17,3 +17,4 @@ Markdown으로 작성된 Markdown_Syntax 포스트 작성
 Disqus로 두 포스트에 댓글 기능 적용
 
 favicon으로 웹사이트 아이콘 변경
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/103506395/204547687-5dae9a0d-99fe-4d33-a4d6-81b9f132df61.png">
