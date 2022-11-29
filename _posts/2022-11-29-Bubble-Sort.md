@@ -3,6 +3,7 @@ layout: post
 title: "Bubble Sort"
 date: 2022-11-29 12:55:09 +0900
 categories: jekyll update
+comments: true
 ---
 
 >## 버블 정렬 알고리즘이란?
